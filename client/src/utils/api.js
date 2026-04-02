@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5001/api",
+  baseURL: "https://fuel-spotter-server.onrender.com/api",
   timeout: 10000,
 });
 
