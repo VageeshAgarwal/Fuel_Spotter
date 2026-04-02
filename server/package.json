@@ -18,7 +18,9 @@
     "express": "^5.2.1",
     "geolib": "^3.3.4",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^8.22.1"
+    "mongoose": "^8.22.1",
+    "nodemailer": "^8.0.4",
+    "resend": "^6.9.4"
   },
   "description": ""
 }
