@@ -14,12 +14,15 @@
     "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
-    "dotenv": "^17.2.3",
+    "dotenv": "^17.4.0",
     "express": "^5.2.1",
     "geolib": "^3.3.4",
+    "i18next": "^26.0.3",
+    "i18next-browser-languagedetector": "^8.2.1",
     "jsonwebtoken": "^9.0.3",
-    "mongoose": "^8.22.1",
+    "mongoose": "^8.23.0",
     "nodemailer": "^8.0.4",
+    "react-i18next": "^17.0.2",
     "resend": "^6.9.4"
   },
   "description": ""
